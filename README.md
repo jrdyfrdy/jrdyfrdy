@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jared</h1>
+<h1 align="center">Hi, I'm Jared! 👋</h1>
 <h3 align="center">🚀 Electronics Engineering Student | 💻 Developer | 🌍 Innovator</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
 </p>
 
 ---
@@ -45,8 +45,6 @@
   </a>
 </p>
 
+
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=blueviolet&style=flat-square" alt="views"/>
-</p>
