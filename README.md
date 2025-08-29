@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JJ</h1>
+<h1 align="center">Hi 👋, I'm Jared</h1>
 <h3 align="center">🚀 Electronics Engineering Student | 💻 Developer | 🌍 Innovator</h3>
 
 <p align="center">
