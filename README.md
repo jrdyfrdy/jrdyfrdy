@@ -23,7 +23,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jrdyfrdy&show_icons=true&theme=tokyonight" height="150"/>
@@ -31,7 +31,7 @@
 </p>
 
 ---
-
+-->
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/jaredposada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
