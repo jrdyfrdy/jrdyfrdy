@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jared 👋</h1>
 
 <h3 align="center">
-  Electronics Engineering Student • Developer • Builder of Practical Tech
+  BS in Electronics Engineering • Developer • Builder of Practical Tech
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## About Me
 
-- Studying **Electronics Engineering**
+- Graduated with a **Bachelor's in Electronics Engineering (BSECE)**, achieving a **highly competitive 1.6 GPA.**
 - Interested in **software development, automation, IoT, embedded systems, and AI**
 - Building systems that combine **hardware, software, communication networks, and intelligent decision support**
 - Exploring **Laravel, React, Python, PostgreSQL, Raspberry Pi, and AI-driven applications**
