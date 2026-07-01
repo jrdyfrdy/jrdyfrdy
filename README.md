@@ -16,7 +16,7 @@
 
 ## About Me
 
-- Graduated with a **Bachelor's in Electronics Engineering (BSECE)**, achieving a **highly competitive 1.6 GPA.**
+- Graduated with a **Bachelor's in Electronics Engineering (BSECE)**, achieving a **highly competitive 1.7 GPA.**
 - Interested in **software development, automation, IoT, embedded systems, and AI**
 - Building systems that combine **hardware, software, communication networks, and intelligent decision support**
 - Exploring **Laravel, React, Python, PostgreSQL, Raspberry Pi, and AI-driven applications**
